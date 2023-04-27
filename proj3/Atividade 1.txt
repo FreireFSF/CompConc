@@ -1,0 +1,2 @@
+Atividade 1
+    3. Não houve mudanças em minha máquina na ordem de execução das threads do arquivo, entretanto era esperado ter tido mudança visto que as threads podem ocorrer simultaneamente e indepedenetes. Pode não ter acontecido pelo padrão de prioridade da minha máquina bem como todas as filas estarem sendo usadas. 
